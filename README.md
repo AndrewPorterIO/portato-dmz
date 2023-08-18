@@ -30,4 +30,4 @@ This is a project coded in React with Material UI v5. For the time being, this w
 
 ## Contact Us
 
-> Personal Site - <https://andrewporter.io>.
+Personal Site - <https://andrewporter.io>
